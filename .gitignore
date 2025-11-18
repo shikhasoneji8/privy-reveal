@@ -1,0 +1,19 @@
+# Ignore large folders
+results/
+*.zip
+tosdr-ui/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.log
+
+# Ignore environments
+venv/
+env/
+*.egg-info
+.DS_Store
+
+# Ignore secrets
+.env
+.env.*
